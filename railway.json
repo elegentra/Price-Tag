@@ -1,0 +1,8 @@
+{
+  "project": {
+    "name": "price-monitor",
+    "description": "مانیتور قیمت محصولات Nothing روی تلگرام",
+    "repository": "https://github.com/YOUR_USERNAME/price-monitor",
+    "template": true
+  }
+}
